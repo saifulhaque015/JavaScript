@@ -8,4 +8,10 @@ var sum = onionPrice + eggPrice;
 var priceDifference = onionPrice - eggPrice;
 // console.log(priceDifference);
 var totalEggPrice = eggPrice * eggQty;
+
 console.log(totalEggPrice);
+
+var availableMoney = 120;
+var orangeQty = 8;
+var orangePrice = availableMoney / orangeQty;
+console.log(orangePrice);
